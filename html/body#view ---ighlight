@@ -1,0 +1,4 @@
+element.style {
+ -moz-tab-size :4;
+ }
+ 
